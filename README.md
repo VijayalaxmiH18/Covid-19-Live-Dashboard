@@ -1,7 +1,7 @@
 # Covid-19-Live-Dashboard
-This is a Live Dashboard built-up for analyzing the real-time COVID-19 Pandemic effect worldwide. 
-(Note : This dashboard has been built using Tableau Public Software - Free Version. Hence, it'll be active for 13 days only)
-✓ Covid-19 Dashboard was hosted on https://public.tableau.com/profile/vijayalaxmi.hubli#!/vizhome/Covid-19DashboardbyVijayalaxmiHubli/Covid-19Dashboard
+- This is a Live Dashboard built-up for analyzing the real-time COVID-19 Pandemic effect worldwide. 
+- (Note : This dashboard has been built using Tableau Public Software - Free Version. Hence, it'll be active for 13 days only)
+- Covid-19 Dashboard was hosted on https://public.tableau.com/profile/vijayalaxmi.hubli#!/vizhome/Covid-19DashboardbyVijayalaxmiHubli/Covid-19Dashboard
 
 ## Live Demo here!
 ![covid-dashboard-gif](https://user-images.githubusercontent.com/64924874/82564112-d689aa00-9b95-11ea-91fd-7fadb109260b.gif)
